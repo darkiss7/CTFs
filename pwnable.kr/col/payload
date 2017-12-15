@@ -1,0 +1,2 @@
+./col $(python -c 'print "\x01" * 16 + "\xe8\x05\xd9\x1d"')
+
